@@ -10,4 +10,3 @@ jobs:
       - run: echo "Hello from GitHub Actions"
       - run: pwd
       - run: ls
-      - run: exit 1
